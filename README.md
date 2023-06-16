@@ -11,6 +11,7 @@ Squares and Cubes
 
 # Assignment3
 Photo Rating
+![Screenshot 2023-06-17 043412](https://github.com/Kulkarniseema/WEB_TECHNOLOGY/assets/121326218/c0bb69d9-6365-469f-aab8-0ebf7e1db813)
 
 # Assignment4
 Program-4
